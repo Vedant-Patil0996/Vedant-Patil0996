@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vedant Patil
 - 👀 I’m interested in expanding my knowledge and learning code
-- 🌱 I’m currently learning html,css and javascript
 - But interested in any input and info....
 - 📫 How to reach me - vedant.patil0516@gmail.com
 
