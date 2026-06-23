@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vedant%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Spring%20%26%20Database%20Specialist&descAlignY=60&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Vedant%20Patil&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Backend%20Engineer%20%7C%20Spring%20%26%20Database%20Specialist&amp;descAlignY=60&amp;descColor=a0c4ff" />
 
 </div>
 
@@ -86,7 +86,7 @@ public class Vedant extends BackendEngineer {
       <h3>🏙️ CIVIC — AI Infrastructure Tracker</h3>
       <p>AI-driven civic platform for automated infrastructure issue detection using <strong>YOLOv8</strong>, <strong>ResNet-50</strong>, and <strong>XGBoost</strong>. Geospatial hotspot clustering with DBSCAN + real-time Leaflet.js heatmaps. Multi-stage RAG pipeline for autonomous complaint triaging.</p>
       <p>
-        <img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square" />
         <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" />
       </p>
@@ -96,9 +96,9 @@ public class Vedant extends BackendEngineer {
       <h3>📊 LogPulse — Distributed AI Log Orchestrator</h3>
       <p>Distributed log diagnostic system with <strong>Kafka</strong> + <strong>Spring Boot</strong> for AI-powered analysis at sub-3s latency. Built-in PII scrubbing engine (JWTs, API keys) and real-time terminal dashboards using Python Threads + Rich.</p>
       <p>
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" />
       </p>
       <a href="https://github.com/Vedant-Patil0996/Logpulse">View Repo →</a>
     </td>
@@ -108,7 +108,7 @@ public class Vedant extends BackendEngineer {
       <h3>⚖️ Clause.ai — AI Legal Intelligence Platform</h3>
       <p>AI-powered legal platform with <strong>FastAPI</strong> + LLM Agents for contract drafting, IPC vs. BNS clause comparison. RAG pipelines over Supreme Court judgments and India Code. Interactive 3D Force Graph legal research interface.</p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
         <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=flat-square" />
         <img src="https://img.shields.io/badge/Multi--Agent%20AI-FF6F00?style=flat-square" />
       </p>
@@ -118,7 +118,7 @@ public class Vedant extends BackendEngineer {
       <h3>🗄️ DataBaseBuild</h3>
       <p>Building a relational database engine from scratch in <strong>Java</strong> — because understanding the internals is the only real way to master them.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
         <img src="https://img.shields.io/badge/From%20Scratch-181717?style=flat-square" />
       </p>
       <a href="https://github.com/Vedant-Patil0996/DataBaseBuild">View Repo →</a>
@@ -132,8 +132,8 @@ public class Vedant extends BackendEngineer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vedant-Patil0996&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Patil0996&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vedant-Patil0996&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Patil0996&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 
 </div>
 
@@ -166,7 +166,7 @@ public class Vedant extends BackendEngineer {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=100&amp;section=footer" />
 
 *Mumbai, India 🇮🇳 · Open to opportunities · Let's build something real.*
 
