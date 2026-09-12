@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vedant%20Patil&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Applied%20AI&descAlignY=60&descColor=a0c4ff&descSize=18)
@@ -179,3 +180,4 @@ public class Vedant extends BackendEngineer {
 *Mumbai, India 🇮🇳 · Open to opportunities · Let's build something real.*
 
 </div>
+-->
